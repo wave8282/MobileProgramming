@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170930056676",
+    "project_id": "personality-test-e5825",
+    "storage_bucket": "personality-test-e5825.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170930056676:android:92a5f967822b0980186bf1",
+        "android_client_info": {
+          "package_name": "om.example.personality_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8TnWBKsWwq2wAn1Wt2uYzO-3fbMK0t7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

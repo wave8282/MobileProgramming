@@ -1,0 +1,42 @@
+name: personality_test
+description: "Psychology Test App for Term Project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # [UI/UX 업그레이드] 아이콘 및 폰트
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.1.0
+
+  # [필수 과제] Firebase 데이터베이스 연동
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+
+  # [상태 관리] 데이터 전달을 위해 필수 (Provider)
+  provider: ^6.1.1
+
+  # [도전 과제] 구글 애드몹 (광고)
+  google_mobile_ads: ^4.0.0
+
+  # [추가] 외부 앱(브라우저, 카카오톡 등) 실행용
+  url_launcher: ^6.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # [중요] JSON 파일과 이미지를 앱이 인식하도록 경로 등록
+  assets:
+    - assets/images/
+    - res/api/

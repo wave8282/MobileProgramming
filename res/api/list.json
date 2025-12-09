@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "title": "MBTI 테스트",
+      "category": "성격",
+      "file": "mbti",
+      "thumbnail": "assets/images/mbti.png"
+    },
+    {
+      "title": "스트레스 관리 테스트",
+      "category": "심리",
+      "file": "stress_test",
+      "thumbnail": "assets/images/stress.png"
+    },
+    {
+      "title": "취향 테스트",
+      "category": "라이프스타일",
+      "file": "preference_test",
+      "thumbnail": "assets/images/preference.png"
+    },
+    {
+      "title": "커뮤니케이션 스타일 테스트",
+      "category": "성격",
+      "file": "communication_test",
+      "thumbnail": "assets/images/communication.png"
+    },
+    {
+      "title": "집중력 테스트",
+      "category": "인지",
+      "file": "focus_test",
+      "thumbnail": "assets/images/focus.png"
+    },
+    {
+      "title": "시간 관리 테스트",
+      "category": "생활습관",
+      "file": "time_management_test",
+      "thumbnail": "assets/images/time.png"
+    },
+    {
+      "title": "감정 조절 테스트",
+      "category": "심리",
+      "file": "emotion_control_test",
+      "thumbnail": "assets/images/emotion.png"
+    }
+  ]
+}
